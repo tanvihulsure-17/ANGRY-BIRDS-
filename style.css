@@ -1,0 +1,78 @@
+ul{
+    list-style-type:none;
+}
+
+li{
+    float: right;
+}
+.heading{
+    float: left;
+    font-size: 45px;
+    font-family: "luckiest guy";
+    cursor: crosshair;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    font-family: "acme";
+    margin-right: 60px;
+}
+a:hover{
+    color: white;
+    background: black;
+    padding: 20px 5px;
+    text-decoration: underline;
+}
+
+.nav{
+    height: 7vh;
+}
+
+.first-part{
+    width: 100%;
+    height: 100vh;
+    background: url(https://cdn.mos.cms.futurecdn.net/YXwuo6Dw87WAnBnSWnhePc-1200-80.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    padding: 0;
+    margin: 6;
+}
+
+.first-part button{
+    font-size: 30px;
+    padding: 30px 30px;
+    margin-top: 20rem;
+    margin-left: 50rem;
+    margin-bottom: 50px;
+    background: black;
+    color: white;
+    border-radius: 30px;
+}
+
+.second-part img{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.third-part img{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.footer img{
+    width: 50px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.footer{
+    background: black;
+    padding-left: 40rem;
+}
